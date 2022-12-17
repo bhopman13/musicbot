@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "discord-api-types": "^0.37.23",
+    "discord-music-player": "^9.1.1",
+    "discord.js": "^14.7.1",
+    "ffmpeg": "^0.0.4",
+    "isomorphic-unfetch": "^3.1.0",
+    "ytsr": "^3.8.0"
+  }
+}
